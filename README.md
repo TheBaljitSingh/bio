@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheBaljitSingh
-- 👀 I’m interested in Coading
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m interested in Listen Music
+- 🌱 I’m currently learning Full-Stack Development
+- 💞️ I’m looking to collaborate with you 
 - 📫 thebaljitsinghin@gmail.com
 
 <!---
